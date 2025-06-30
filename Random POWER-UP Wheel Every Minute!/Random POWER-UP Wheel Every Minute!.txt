@@ -1,0 +1,64 @@
+Random POWER-UP Wheel Every Minute!” — FULL 3-Minute Cut
+(silent cartoon • 170 BPM drum-and-bass • grass-brick maze • 3 characters
+🟣 Pinky 👹 Maw 🎁 Box 🎡 Wheel • 3-second micro-beats = 60 beats total)
+
+Core rule – the rainbow wheel spins automatically at 00:30, 01:30, 02:30.
+Whatever icon lands rewrites the physics until the next spin.
+No black gaps, no “next-up” arrows: one continuous adrenaline run.
+
+⏱️ Timeline (3-s beats) — 00:00 ➜ 03:00
+t (s)	Screen Action	Retention Trick	Audio / FX
+00-02	Freeze-frame: wheel mid-spin, rainbow blast	Start w/ payoff	Doppler WHOOSH → vinyl stop
+02-03	Whip-zoom rewind to empty lane	Instant hook	Reverse cymbal
+03-06	Wheel meteors in, grass shockwave	“Boom” in 5 s	Sub-boom + snare entry
+06-09	Pinky slide-tackles, gawks	Jump-scare colour	Cartoon gasp, beat cut
+09-12	Pointer lands WINGS	Sudden change	Cymbal stab
+12-15	Pinky flaps upward	Visual novelty	Rising synth pad
+15-18	Maw rolls in, jaws snap	First escalation	Deep growl bass
+18-21	Split-screen HUD 🟣 (air) / 👹 (ground)	Progress bar	Side-chain kick
+21-24	Air-boost dive-kick on Maw	Replay outline	8-bit ding
+24-27	Wheel auto-arms, on-screen timer 03	Countdown tension	Beep-beep-beep
+27-30	Pointer hits MAGNET	Rule swap	Metal clang, beat drop
+30-33	Box clamps to wall ceiling	POV change	Hi-hat sweep
+33-36	Pinky & Box yanked together	Slapstick	Honk-whistle
+36-39	Maw skids, sparks on frozen turf	New hazard	Grit scrape
+39-42	Tilt-shift overhead chaos	Novel cam	Light marimba
+42-45	Wheel spins turbo (fast-blur)	Mid-Act twist	Rise whoosh → mute
+45-48	Flash-frame LIGHTNING icon	Micro-tease	(silence)
+48-51	Pointer settles LIGHTNING	Cliff tease → payoff	Electric crack
+51-54	Maw & Box shocked, stunned	Jump scare	Thunder hit
+54-57	Pinky gets ⚡ speed aura	Power surge	Snare roll
+57-60	200 % speed chase streaks	Speed ramp	Hi-hat flurry
+60-63	Wheel slow-mo spin as world fast	Contrast motion	Sub-drop, muffled track
+63-66	Lands SHRINK icon	Escalation	Pop-squeak
+66-69	Mini-Box zooms; Pinky overshoots	Slapstick	8-bit ding
+69-72	Maw bite whiff (mouth too big)	Comedy reset	Chomp-whiff
+72-75	Wheel flashes GLITCH red	Timer tension	Alarm buzz
+75-78	Maze bricks rotate 90°	Spatial shake	Stone grind
+78-81	Side-run POV wall-run	Novel cam	Doppler whoosh
+81-84	Box (mini) hijacks wheel hub	Surprise	Tiny squeal
+84-87	Hub rainbow blur overload	Visual blowout	Synth sweep
+87-90	Pointer parks BETWEEN 🚀 & 🌀	Micro-tease	½-sec silence
+90-93	Dual icon split → BOTH powers	Double payoff	Dual chime
+93-96	Pinky gains rocket boots & cloak	Two powers wow	Cymbal swell
+96-99	Maw bulk-up (side-effect)	Raise stakes	Sub-bass
+99-102	Jet-dash first-person cam	Novel cam	Wind roar
+102-105	Cloaked stealth punch freeze-frame	Gag	“Snap!”
+105-108	Wheel spins GOLD final mode	3rd-act build	Heartbeat mute
+108-111	Lands HOURGLASS icon	Time mechanic	Sand pour SFX
+111-114	Global slo-mo 50 %	Signature slow-mo	Lowered pitch track
+114-117	Box hits reverse: world rewinds	Instant replay	Tape-rewind
+117-120	Hourglass shatters, speed resets	Shock reversal	Glass crash
+120-123	ALL POWERS active (wings, boots, cloak, lightning)	Max chaos combo	Orchestral hit
+123-126	Camera 360° orbit carnage	Fast move	Rising whoosh
+126-129	Wheel lifts, morphs to portal	WTF escalation	Choir pad
+129-132	Pinky rockets toward portal	Micro-tease	Silence
+132-135	Portal bursts rainbow beam	Visual climax	Sub-drop + sparkle
+135-138	Ice-monster-sized Maw blocks beam (optional)	Last twist	Ice crack / roar
+138-141	Pinky slalom boosts, dives past	Hero moment	Hi-snare flurry
+141-144	Box leg-spider scuttles inside portal	Extra mystery	Rapid clatter
+144-147	Portal sucks wheel, closes to coin-size	Unresolved hook	Vacuum whoosh
+147-150	Freeze-frame on coin-portal in Pinky’s paw	Final cliff	Vinyl stop
+150-180	30-sec credits? No! – instead hold 2-sec, quick white flash teaser of Box in new realm → hard black 28 s	Post-credit sting	Lock-click echo + faint portal hum
+
+(Timeline totals exactly 180 seconds; no dead-air, no promo cards.)
